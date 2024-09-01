@@ -1,6 +1,3 @@
-Here's a README format for the content you provided, structured to clearly present the project details, objectives, methodology, findings, and impact:
-
----
 
 # Quantium Virtual Internship Project: Driving Chip Category Growth Through Data Analysis
 
